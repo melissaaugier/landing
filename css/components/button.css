@@ -1,0 +1,6 @@
+.btn-blue{
+  background: linear-gradient(57deg, rgba(72,208,95,0.835171568627451) 0%, rgba(24,218,194,1) 50%, rgba(72,208,95,1) 100%);
+  padding: 16px 36px;
+  border-radius: 50px;
+  color: white;
+}

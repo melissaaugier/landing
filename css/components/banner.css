@@ -1,0 +1,14 @@
+.banner{
+  background-image: url(../../images/background.png);
+  background-size: cover;
+  background-position: center;
+  padding: 13%;
+  display: flex;
+  justify-content: space-around;
+  color: #fff;
+  text-shadow: 0px 0px 30px rgba(0,0,0,0.8)
+}
+
+.banner p{
+  margin-bottom:50px;
+}

@@ -1,0 +1,20 @@
+.footer{
+  margin-top: 2%;
+  background-color: #2c2b2b;
+  padding: 2%;
+  color:#4d6150d5;
+  text-align: center;
+}
+
+.footer ul{
+  display: flex;
+  justify-content: center;
+  list-style: none;
+  padding: 0;
+}
+
+.fab{
+  color: rgba(72,208,95,0.835171568627451);
+  font-size: 36px;
+  margin: 10px 10px;
+}
